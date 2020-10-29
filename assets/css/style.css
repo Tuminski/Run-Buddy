@@ -80,7 +80,6 @@ section {
     background-position: cover;
     position: relative;
 }
-/*Hero style end*/
 
 .hero-form {
     background-color: #fce138;
@@ -118,3 +117,13 @@ section {
 .hero-form label{
     margin: 0 5px;
 }
+
+.hero-form button{
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+
+}
+
+/*Hero style end*/
