@@ -194,7 +194,7 @@ section {
   }
   
   .trainer {
-        width: 900px;
+        width: 900px ;
         margin: 0 auto 30px auto;
         background: #024e76;
         color: #fce138;
@@ -210,4 +210,11 @@ section {
     padding: 35px;
     float: left;
     width:65%;
+  }
+  .text-left {
+    text-align: left;
+  }
+  
+  .text-right {
+    text-align: right;
   }
